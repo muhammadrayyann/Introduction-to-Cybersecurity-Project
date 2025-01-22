@@ -1,4 +1,4 @@
-# Introduction-to-Cybersecurity-Project
+# Web-Application-Vulnerability-Exploitation
 Exploiting a web application vulnerability i.e. Insecure Direct Object References (IDOR) using an industry-standard penetration testing tool, Burp Suite.
 The attack is carried out in a safe lab environment provided by PortSwigger.
 
